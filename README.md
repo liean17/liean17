@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![liean17's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![liean17's GitHub stats](https://github-readme-stats.vercel.app/api?username=liean17)](https://github.com/liean17/github-readme-stats)
 
 <!--
 **liean17/liean17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
