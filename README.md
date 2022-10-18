@@ -27,7 +27,7 @@
 >Java 17 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / JWT / AWS / RDS S3  
 >  
-<!-- >[프로젝트 상세 설명](주소) 참고 -->
+>[프로젝트 상세 설명](주소) 참고
 
 ---
 
@@ -39,7 +39,7 @@
 >Java 17 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Spring Batch  
 >  
-<!-- >[프로젝트 상세 설명](주소) 참고 -->
+>[프로젝트 상세 설명](주소) 참고
 
 ---
 
